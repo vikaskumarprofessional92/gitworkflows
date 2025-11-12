@@ -1,6 +1,2 @@
-feature 1 with 1 bug
-<<<<<<< HEAD
-feature 2 wip
-=======
->>>>>>> 1de49ff (fix feature 1 bug X)
+>>>>>>> 27375eb (resolving merge conflict)
  
