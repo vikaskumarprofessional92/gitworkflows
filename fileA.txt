@@ -1,7 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature 1
 feature 2 wip
-=======
-feature 1 with 1 bug
->>>>>>> 1de49ff (fix feature 1 bug X)
- 
+>>>>>>> 3aee6e4 (fix feature 1 bug Y)
