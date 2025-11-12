@@ -1,3 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature 1 with 1 bug 
 >>>>>>> hotfix1
+=======
+<<<<<<< HEAD
+>>>>>>> 3aee6e4 (fix feature 1 bug Y)
+>>>>>>> feature2
